@@ -17,4 +17,4 @@ for number in range(1, 1000):
         sum += 0
 
 print(sum_list) # prints a list of all the numbers my code picks as divisible by 3 or 5
-print(sum) # prints the problem's solution
+print("The answer to euler problem 1 is: ", sum) # prints the problem's solution
